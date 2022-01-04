@@ -4,3 +4,4 @@ appsettings.json
 *.db
 ecommerce.db-shm
 ecommerce.db-wal
+*.rdb
